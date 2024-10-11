@@ -11,6 +11,7 @@ fun withParameter(name: String) {
     println("Hello, $name!")
 }
 
+
 // Named argument
 // Named argument merupakan cara untuk memanggil fungsi dengan menyebutkan nama parameter
 fun withNamedArgument(name: String, age: Int) {
